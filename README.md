@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FriteSeal, also known as Michaeleo
+- 👀 I’m interested in web development & 3D modelling
+- 🌱 I’m currently learning HTML & CSS
+- 📫 Reach out to me at https://michaeleo.xyz!
